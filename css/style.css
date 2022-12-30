@@ -108,7 +108,7 @@ cursor: pointer;
 .attribution a{
 color: var(--Pink ) !important;
 }
-@media (max-width:750px){
+@media (max-width:850px){
     body{
         width: 100%;
         margin: 0 !important;
